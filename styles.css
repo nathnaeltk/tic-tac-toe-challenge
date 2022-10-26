@@ -1,0 +1,79 @@
+body{
+    background-color: #292C6D;
+    padding: 50px 40px 0px 40px;
+}
+.title{
+    text-align: center;
+    font-family: 'Press Start 2P';
+    color: whitesmoke;
+    margin-bottom: 20px;
+}
+.top-bar{
+    text-align: center;
+    margin: auto;
+}
+.icon-logo{
+    display: inline-block;
+    padding-right: 300px;
+    height: 30px;
+}
+.reset-image{
+    display: inline-block;
+    height: 40px;
+    background-color: #fedb39; 
+    border-radius: 6px; 
+    padding: 8px 12px; 
+    cursor: pointer; 
+}
+.rowsetting{
+    padding: 5px 420px;
+}
+.spot{
+    margin: 2px 10px;
+    height: 110px;
+    background-color: #EC255A; 
+    border-radius: 6px; 
+    cursor: pointer; 
+}
+.xoro{
+    text-align: center;
+    font-family: 'Press Start 2P';
+    font-size: 3.6rem;
+    margin-top: 15px;
+    height: 80px;
+}
+.turn{
+    height: 50px;
+    margin: auto;
+    font-family: 'Press Start 2P';
+    text-align: center;
+    background-color: #fedb39; 
+    border-radius: 6px; 
+    margin: 10px 10px;
+}
+.bottom{
+    margin: 0px 0px;
+}
+.xwins{
+    height: 50px;
+    margin: auto;
+    font-family: 'Press Start 2P';
+    text-align: center;
+    background-color: #fedb39; 
+    border-radius: 6px; 
+    margin: 10px 10px;
+}
+.ywins{
+    height: 50px;
+    margin: auto;
+    font-family: 'Press Start 2P';
+    text-align: center;
+    background-color: #fedb39; 
+    border-radius: 6px; 
+    margin: 10px 10px;
+}
+.footer{
+    text-align: center;
+    color: aliceblue;
+    font-family: Montserrat;
+}
